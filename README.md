@@ -27,7 +27,7 @@ https://github.com/devicons/devicon/blob/master/icons // icons
 <tr align="center">
 <a href="#"><img align='left' src="https://github.com/AlmogJakov/AlmogJakov/blob/main/images/welcome-p.png" width="295"></a>
 <h2> Hi, I'm Almog!  <a href="#"><img src="https://github.com/AlmogJakov/AlmogJakov/blob/main/images/blink2.gif" width="27"></a></h2>
-<p><h3>Computer Science Student At <a href="https://www.ariel.ac.il/wp/en">Ariel University</a></h3>
+<p><h3>Junior Software Developer & Computer Science Student</h3>
 </p>
 
 ---
