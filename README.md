@@ -16,7 +16,9 @@ https://github.com/moshfiqrony/moshfiqrony
 https://github.com/char-al/char-al
 https://github.com/xtenzQ/xtenzQ
 https://github.com/rafi0101/rafi0101 // ripository view
-
+https://github.com/badges/shields
+https://naereen.github.io/badges/
+https://img.myrandomwebs.com/try.html
 
 https://github.com/abranhe/programming-languages-logos // icons
 https://github.com/devicons/devicon/blob/master/icons // icons
@@ -40,7 +42,11 @@ https://github.com/devicons/devicon/blob/master/icons // icons
 <a title="Flask" href="#"><img src="https://github.com/AlmogJakov/AlmogJakov/blob/main/images/flask.png" width="47"/></a>
 <a title="Linux" href="#"><img src="https://github.com/AlmogJakov/AlmogJakov/blob/main/images/linux-original.svg" width="47"/></a>
 <a title="MySQL" href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="47"/></a>
-<a title="MongoDB" href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="47"/></a>
+<a title="MongoDB" href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="47"/></a>  
+  
+[![Github](https://visitor-badge.laobi.icu/badge?page_id=AlmogJakov.AlmogJakov)](https://github.com/AlmogJakov)
+[![Github](https://img.shields.io/github/followers/AlmogJakov?label=Followers&style=social)](https://github.com/AlmogJakov)
+
 <!-- REMOVE THE BACKSLASHES 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
