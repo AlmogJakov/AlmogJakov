@@ -19,6 +19,10 @@ https://github.com/rafi0101/rafi0101 // ripository view
 https://github.com/badges/shields
 https://naereen.github.io/badges/
 https://img.myrandomwebs.com/try.html
+https://michaelcurrin.github.io/badge-generator
+https://ileriayo.github.io/markdown-badges/
+https://docs.readthedocs.io/en/stable/badges.html // badges styles!
+https://shields.io/endpoint // badges colors!
 
 https://github.com/abranhe/programming-languages-logos // icons
 https://github.com/devicons/devicon/blob/master/icons // icons
@@ -44,8 +48,9 @@ https://github.com/devicons/devicon/blob/master/icons // icons
 <a title="MySQL" href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="47"/></a>
 <a title="MongoDB" href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="47"/></a>  
   
+[![saythanks](https://img.shields.io/badge/Endorse-Me-ff69b4?&color=ff69b4&labelColor=ff69b4)](https://www.linkedin.com/in/almog-jakov)
+[![Github](https://img.shields.io/github/followers/AlmogJakov?label=Followers&color=green&labelColor=2D2D30&style=flat-square)](https://github.com/AlmogJakov)
 [![Github](https://visitor-badge.laobi.icu/badge?page_id=AlmogJakov.AlmogJakov)](https://github.com/AlmogJakov)
-[![Github](https://img.shields.io/github/followers/AlmogJakov?label=Followers&style=social)](https://github.com/AlmogJakov)
 
 <!-- REMOVE THE BACKSLASHES 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
