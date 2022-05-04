@@ -37,20 +37,9 @@ https://github.com/devicons/devicon/blob/master/icons // icons
 </p>
 
 ---
-<a title="C" href="#"><img src="https://github.com/AlmogJakov/AlmogJakov/blob/main/images/c_48x48.png" width="47"/></a>
-<a title="C++" href="#"><img src="https://github.com/AlmogJakov/AlmogJakov/blob/main/images/cpp_48x48.png" width="47"/></a>
-<a title="Java" href="#"><img src="https://github.com/AlmogJakov/AlmogJakov/blob/main/images/java_48x48.png" width="47"/></a>
-<a title="Python" href="#"><img src="https://github.com/AlmogJakov/AlmogJakov/blob/main/images/python_48x48.png" width="47"/></a>
-<a title="Html" href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="47"/></a>
-<a title="Git" href="#"><img src="https://github.com/AlmogJakov/AlmogJakov/blob/main/images/git-plain.svg" width="47"/></a>
-<a title="Flask" href="#"><img src="https://github.com/AlmogJakov/AlmogJakov/blob/main/images/flask.png" width="47"/></a>
-<a title="Linux" href="#"><img src="https://github.com/AlmogJakov/AlmogJakov/blob/main/images/linux-original.svg" width="47"/></a>
-<a title="MySQL" href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="47"/></a>
-<a title="MongoDB" href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="47"/></a>  
+<a title="C" href="#"><img src="https://github.com/AlmogJakov/AlmogJakov/blob/main/images/c_48x48.png" width="47"/></a> <a title="C++" href="#"><img src="https://github.com/AlmogJakov/AlmogJakov/blob/main/images/cpp_48x48.png" width="47"/></a> <a title="Java" href="#"><img src="https://github.com/AlmogJakov/AlmogJakov/blob/main/images/java_48x48.png" width="47"/></a> <a title="Python" href="#"><img src="https://github.com/AlmogJakov/AlmogJakov/blob/main/images/python_48x48.png" width="47"/></a> <a title="Html" href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="47"/></a> <a title="Git" href="#"><img src="https://github.com/AlmogJakov/AlmogJakov/blob/main/images/git-plain.svg" width="47"/></a> <a title="Flask" href="#"><img src="https://github.com/AlmogJakov/AlmogJakov/blob/main/images/flask.png" width="47"/></a> <a title="Linux" href="#"><img src="https://github.com/AlmogJakov/AlmogJakov/blob/main/images/linux-original.svg" width="47"/></a> <a title="MySQL" href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" width="47"/></a> <a title="MongoDB" href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="47"/></a>  
   
-[![saythanks](https://img.shields.io/badge/Endorse-Me-ff69b4?&color=ff69b4&labelColor=ff69b4)](https://www.linkedin.com/in/almog-jakov)
-[![Github](https://img.shields.io/github/followers/AlmogJakov?label=Followers&color=green&labelColor=2D2D30&style=flat-square)](https://github.com/AlmogJakov)
-[![Github](https://visitor-badge.laobi.icu/badge?page_id=AlmogJakov.AlmogJakov)](https://github.com/AlmogJakov)
+[![saythanks](https://img.shields.io/badge/Endorse-Me-ff69b4?&color=ff69b4&labelColor=ff69b4)](https://www.linkedin.com/in/almog-jakov) [![Github](https://img.shields.io/github/followers/AlmogJakov?label=Followers&color=green&labelColor=2D2D30&style=flat-square)](https://github.com/AlmogJakov) [![Github](https://visitor-badge.laobi.icu/badge?page_id=AlmogJakov.AlmogJakov)](https://github.com/AlmogJakov)
 
 <!-- REMOVE THE BACKSLASHES 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
